@@ -8,5 +8,9 @@ namespace FirstClassLibrary
 {
     public class Class1
     {
+        public void TestMethod()
+        {
+            Console.WriteLine("Test");
+        }
     }
 }
